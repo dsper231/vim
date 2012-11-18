@@ -1,5 +1,6 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =3
-let g:netrw_dirhist_1='/Volumes/Users/dsperzel.CT/Documents/ACTIVE-PROJECTS/VA-ECT/CURATED_NAMESPACE/rb'
-let g:netrw_dirhist_2='/Volumes/Users/dsperzel.CT/Documents/ACTIVE-PROJECTS/CDS/sql1'
-let g:netrw_dirhist_3='/Volumes/Users/dsperzel.CT/Documents/ACTIVE-PROJECTS/CDS/sql2'
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/Volumes/Users/dsperzel.CT/Documents/ACTIVE-PROJECTS'
+let g:netrw_dirhist_2='/Volumes/Users/dsperzel.CT/Documents/ACTIVE-PROJECTS/VA-BPA 55'
+let g:netrw_dirhist_3='/Volumes/Users/dsperzel.CT/Documents/ACTIVE-PROJECTS/VA-BPA 55/LEGO TO4'
+let g:netrw_dirhist_4='/Volumes/Users/dsperzel.CT/Documents/ACTIVE-PROJECTS/VA-BPA 55/LEGO TO4/Schema Revisions'
