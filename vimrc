@@ -2,6 +2,11 @@
 " David's .vimrc file
 "--------------------------------------------------------------------------------
 
+"Use pathogen.vim to manage plugins
+execute pathogen#infect()
+call pathogen#runtime_append_all_bundles()
+call pathogen#helptags()
+
 " Don't use vi-compatibility mode
 set nocompatible
 
