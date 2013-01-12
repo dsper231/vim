@@ -12,3 +12,7 @@ Switch to the `~/.vim` directory, and fetch submodules:
     cd ~/.vim
     git submodule init
     git submodule update
+
+    # Key command for installing plugins from git repositories as submodules:
+
+    git submodule add https://github.com/tpope/vim-fugitive.git bundle/fugitive
